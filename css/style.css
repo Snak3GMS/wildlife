@@ -1,0 +1,12 @@
+@import url('blocks/header.css');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
