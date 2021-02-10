@@ -1,8 +1,15 @@
 @import url('blocks/header.css');
+@import url('blocks/survival.css');
+@import url('blocks/main.css');
+@import url('blocks/slider.css');
+@import url('blocks/articles.css');
+@import url('blocks/notified.css');
+
 
 * {
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    margin-bottom: 0;
 }
 
 .container {

@@ -23,7 +23,7 @@ nav ul {
     max-width: 480px;
     width: 480px;
     justify-content: space-between;
-    padding: 0px;
+    padding: 0 0 14px 0;
 }
 nav ul li, li a {
     font-family: Open Sans;
@@ -53,6 +53,11 @@ nav ul li:hover {
     background: 0;
     color: #F7F7F7;
     outline: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
 }
 .btn:hover {
     background-color: #CD6326;

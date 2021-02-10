@@ -1,0 +1,43 @@
+.survival {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-height: 680px;
+}
+.survival h2 {
+    margin: 100px 0 0;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: 2px;
+    color: #CD6326;
+}
+.survival__descr {
+    margin-top: 51px;
+    max-width: 275px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #F7F7F7;
+}
+.survival__btn {
+    margin-top: 49px;
+    width: 160px;
+    height: 60px;
+    color: #F7F7F7;
+    font-size: 23px;
+    line-height: 27px;
+    text-align: center;
+    background-color: #CD6326;
+}
+.survival__btn:hover {
+    background-color: #E39128;
+    border: none;
+}
+.survival__btn:active {
+    background-color: #8F5613;
+}

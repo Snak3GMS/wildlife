@@ -1,0 +1,5 @@
+.main {
+    background: url('../../images/background/main.png') center center/cover no-repeat;
+    max-height: 780px;
+    height: 780px;
+}
