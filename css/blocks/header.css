@@ -36,9 +36,12 @@ header {
     color: #F7F7F7;
 }
 .nav ul li:hover {
-    background: radial-gradient(ellipse, #f7f7f741, #ffffff00);
+    background: radial-gradient(circle,#E39128, #ffffff00);
     cursor: pointer;
     border-radius: 10px
+}
+.nav ul li:active {
+    background: radial-gradient(circle,#8F5613, #ffffff00);
 }
 
 .search {
