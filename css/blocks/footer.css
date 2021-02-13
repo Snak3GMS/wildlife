@@ -5,7 +5,7 @@ footer {
 }
 
 .nav_footer {
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 23px;
@@ -58,7 +58,7 @@ li:last-child {
     margin-right: 0;
 }
 .footer__logo_title {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 32px;
