@@ -27,7 +27,7 @@ header {
     padding: 0 0 14px 0;
 }
 .nav ul li, li a {
-    font-family: Open Sans;
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 23px;
@@ -57,7 +57,7 @@ header {
     background: 0;
     color: #F7F7F7;
     outline: none;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 23px;

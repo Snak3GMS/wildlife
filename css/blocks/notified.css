@@ -7,7 +7,7 @@
 .notified__title {
     margin-top: 0;
     margin-bottom: 60px;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 27px;
@@ -30,7 +30,7 @@
     border-radius: 2px 0 0 2px;
     border: solid 1px #666666;
     border-right: none;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     padding-left: 15px;
     font-size: 23px;
     line-height: 27px;
@@ -46,7 +46,7 @@
     border: 1px solid #CD6326;
     border-radius: 0px 5px 5px 0px;
     border-left: none;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 23px;
     line-height: 27px;
     text-align: center;
