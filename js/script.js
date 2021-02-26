@@ -6,7 +6,7 @@ const innerSlider = document.querySelectorAll('div[data-slider]'),
 
 
 function sliderNext() {
-    let nextItem = sliderArr[0];
+    let nextItem = sliderArr.shift();
     slider.append(nextItem);
     sliderArr.push(nextItem);
     
