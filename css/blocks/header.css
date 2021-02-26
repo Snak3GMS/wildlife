@@ -44,11 +44,19 @@ header {
     background: radial-gradient(circle,#8F5613, #ffffff00);
 }
 
+.nav_icon {
+    display: block;
+    background: url('../../icons/search.svg') center center/cover no-repeat;
+    width: 24px;
+    height: 24px;
+}
+
 .search {
     line-height: 60px;
 }
 
 .btn {
+    display: block;
     width: 120px;
     height: 50px;
     border: 2px solid #CD6326;
@@ -61,7 +69,8 @@ header {
     font-style: normal;
     font-weight: normal;
     font-size: 23px;
-    line-height: 27px;
+    line-height: 46px;
+    text-align: center;
 }
 .btn:hover {
     background-color: #CD6326;
