@@ -57,6 +57,10 @@ footer {
 li:last-child {
     margin-right: 0;
 }
+li:last-child a img {
+    width: 32px;
+    margin-top: 7px;
+}
 .footer__logo_title {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
